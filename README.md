@@ -4,9 +4,6 @@
   <img src="https://raw.githubusercontent.com/DokPan/DokPan/main/jaba.gif" width="300" alt="Веселые жабки"/>
 </p>
 
-## 🚀 Обо мне
-Тут был текст
-
 ## 🛠️ Технологии
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white)
