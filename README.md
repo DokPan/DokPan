@@ -23,14 +23,5 @@
 ### 🦑 Активность
 ![General Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/general.svg)
 
-### 🎌 Аниме и манга
-![Anime Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/anime.svg)
-
-### 🏆 Достижения
-![Achievements](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/achievements.svg)
-
-### 📈 GitHub Stats
-![GitHub Stats](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/github-stats.svg)
-
 ## 📫 Контакты
 [Ваши контакты]
