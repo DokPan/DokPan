@@ -15,6 +15,3 @@
 
 ### 🦑 Активность
 ![General Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/general.svg)
-
-### 🎌
-![Anime Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/anime.svg)
