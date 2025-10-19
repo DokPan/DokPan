@@ -21,24 +21,13 @@ jobs:
           base: ""
           config_order: anilist
           output_action: gist
-          plugin_anilist_user: Belaz
+          plugin_anilist_user: DokPan
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters, reading, watching
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
 
-
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/achievements.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
-          output_action: gist
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
