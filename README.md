@@ -24,4 +24,5 @@
 ![General Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/general.svg)
 
 ## 📫 Контакты
-[Ваши контакты]
+Mail:
+Telegram: 
