@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут Алина
+# Привет! 👋 Меня зовут DokPan
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/jaba.gif" width="400" alt="Веселые жабки"/>
