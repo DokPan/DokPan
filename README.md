@@ -19,7 +19,3 @@
 
 ### 🦑 Активность
 ![General Metrics](https://raw.githubusercontent.com/DokPan/DokPan/main/metrics/general.svg)
-
-## 📫 Контакты
-Mail:
-Telegram: 
