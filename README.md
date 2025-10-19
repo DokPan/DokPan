@@ -1,6 +1,6 @@
 # Привет! 👋 Меня зовут DokPan
 
-<p aligin="right">
+<p align="right">
   <img src="https://raw.githubusercontent.com/DokPan/DokPan/main/jaba.gif" width="300" alt="Веселые жабки"/>
 </p>
 
